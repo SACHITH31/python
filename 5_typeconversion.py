@@ -1,0 +1,13 @@
+'''
+TYPE CONVERSIONS IN PYTHON ARE : 
+int()
+float()
+str()
+bool()
+'''
+
+
+'''
+DATA LOSE ---> EXPLICIT TYPE CONVERSION 
+DATA NO LOSE ---> IMPLICIT TYPE CONVERSION
+'''
