@@ -67,3 +67,18 @@ d = [1,2,3,4,'sachith']
 e = d.index('sachith')
 print(e)
 
+'''
+LIST COMPREHENSION :
+SYNTAX: [expression CONDITION]
+'''
+#ex: 
+squares = [x**2 for x in range(5)]
+print(squares)
+
+even_numbers = [x for x in range(10) if x % 2 == 0]
+print(even_numbers)
+
+words = ["apple", "banana", "cherry"]
+uppercase_words = [word.upper() for word in words]
+print(uppercase_words)
+
