@@ -24,6 +24,7 @@ a,b,c = 1,2,3 # but here we can assign multiple values to multiple variables whi
 print(a,b,c)
 
 c = 1,2,3 #this can be done where output is (1,2,3)
+print("Printing c value")
 print(c)
 
 #TO KNOW ABOUT THE MEMORY LOCATION IN PYTHON WE USE id(variable_name) 
